@@ -1,3 +1,3 @@
-<img src='image/main.png'> </img>
+<img src='images/main.png'> </img>
 
-<img src='image/service.png'> </img>
+<img src='images/service.png'> </img>
